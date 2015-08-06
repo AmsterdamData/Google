@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ListBucketResult xmlns='http://doc.s3.amazonaws.com/2006-03-01'>
+<Name>amsterdam_open_data</Name><Prefix></Prefix><Marker></Marker><IsTruncated>false</IsTruncated>
+<Contents><Key>City of Amsterdam/</Key><Generation>1430488661460000</Generation><MetaGeneration>2</MetaGeneration><LastModified>2015-05-01T13:57:41.459Z</LastModified><ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag><Size>0</Size><Owner/></Contents>
+<Contents><Key>City of Amsterdam/Amsterdam_data_transform/GV_E_Agg_Amsterdam_id.dbf</Key><Generation>1431529933629000</Generation><MetaGeneration>2</MetaGeneration><LastModified>2015-05-13T15:12:13.628Z</LastModified><ETag>"f61b0c41674ba8c9fc55507bec30bc77"</ETag><Size>2981041</Size><Owner/></Contents>
+<Contents><Key>City of Amsterdam/Amsterdam_data_transform/GV_E_Agg_Amsterdam_id.prj</Key><Generation>1431529925159000</Generation><MetaGeneration>2</MetaGeneration><LastModified>2015-05-13T15:12:05.158Z</LastModified><ETag>"4250ee41129d6f43b4b897848c0655ac"</ETag><Size>428</Size><Owner/></Contents>
+<Contents><Key>City of Amsterdam/Amsterdam_data_transform/GV_E_Agg_Amsterdam_id.sbn</Key><Generation>1431529931496000</Generation><MetaGeneration>2</MetaGeneration><LastModified>2015-05-13T15:12:11.495Z</LastModified><ETag>"9ee3f33a433585e6b19ea703a657e5e9"</ETag><Size>59524</Size><Owner/></Contents>
+<Contents><Key>City of Amsterdam/Buildings (BAG)/</Key><Generation>1430821024474000</Generation><MetaGeneration>2</MetaGeneration><LastModified>2015-05-05T10:17:04.473Z</LastModified><ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag><Size>0</Size><Owner/></Contents>
+<Contents><Key>City of Amsterdam/Buildings (BAG)/links.html</Key><Generation>1431529935374000</Generation><MetaGeneration>2</MetaGeneration><LastModified>2015-05-13T15:12:15.373Z</LastModified><ETag>"134ba8aabd2273aa479a3e6c7db03daf"</ETag><Size>4522</Size><Owner/></Contents>
+</ListBucketResult>
